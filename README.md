@@ -231,8 +231,8 @@ Borra los paquetes descargados:
 En la ruta donde se encuentre el archivo a instalar, se tendra que darle permisos de ejecución:
 ```
 # sudo chmod a+x nombre_archivo.bin (si se trata de un archivo con
-```
 extensión .bin)
+```
 ó
 ```
 # sudo chmod a+x nombre_archivo.sh (si se trata de un archivo con
